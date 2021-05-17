@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>4456474_304371790</transaction>
+  <expiration>2021-04-14T19:41:16-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000004456474</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Interpreting the Internet</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Friedman, Elisabeth Jay; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of California Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4456474</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en-US</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000004456474</resource>
+      <permissions>
+        <display>
+          <duration>86399</duration>
+        </display>
+        <excerpt>
+          <duration>86399</duration>
+          <count initial="50" max="50" incrementInterval="1727"/>
+        </excerpt>
+        <print>
+          <duration>86399</duration>
+          <count initial="100" max="100" incrementInterval="863"/>
+        </print>
+        <play>
+          <duration>86399</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>Vis27QP2A1L8cvqQCGzbXnS9q04=</hmac>
+</fulfillmentToken>

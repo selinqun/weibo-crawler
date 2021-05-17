@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>4769281_304372882</transaction>
+  <expiration>2021-04-14T19:49:39-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000004769281</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Digital Activism in the Social Media Era</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mutsvairo, Bruce; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Springer International Publishing AG</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4769281</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000004769281</resource>
+      <permissions>
+        <display>
+          <duration>31535999</duration>
+        </display>
+        <excerpt>
+          <duration>31535999</duration>
+          <count initial="69" max="69" incrementInterval="457043"/>
+        </excerpt>
+        <print>
+          <duration>31535999</duration>
+          <count initial="137" max="137" incrementInterval="230189"/>
+        </print>
+        <play>
+          <duration>31535999</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>/eTFv+jcE1cEz9UCT+HTk4eAs3M=</hmac>
+</fulfillmentToken>

@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>6118540_304356958</transaction>
+  <expiration>2021-04-14T17:56:17-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000006118540</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">#HashtagActivism</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jackson, Sarah J.; Bailey, Moya; Foucault Welles, Brooke</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">MIT Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">6118540</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en-US</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000006118540</resource>
+      <permissions>
+        <display>
+          <duration>31535999</duration>
+        </display>
+        <excerpt>
+          <duration>31535999</duration>
+          <count initial="60" max="60" incrementInterval="525599"/>
+        </excerpt>
+        <print>
+          <duration>31535999</duration>
+          <count initial="30" max="30" incrementInterval="1051199"/>
+        </print>
+        <play>
+          <duration>31535999</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>e9VfLGzwaZUaUG2xRTLXC95X8lk=</hmac>
+</fulfillmentToken>

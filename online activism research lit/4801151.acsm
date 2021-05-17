@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>4801151_304356977</transaction>
+  <expiration>2021-04-14T17:56:26-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000004801151</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Feminist Activism and Digital Networks</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fotopoulou, Aristea; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Palgrave Macmillan Limited</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4801151</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000004801151</resource>
+      <permissions>
+        <display>
+          <duration>31535999</duration>
+        </display>
+        <excerpt>
+          <duration>31535999</duration>
+          <count initial="35" max="35" incrementInterval="901028"/>
+        </excerpt>
+        <print>
+          <duration>31535999</duration>
+          <count initial="70" max="70" incrementInterval="450514"/>
+        </print>
+        <play>
+          <duration>31535999</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>TrbeTI/mTLWPWq2jg3N9YbcgQO0=</hmac>
+</fulfillmentToken>

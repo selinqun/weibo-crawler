@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>4987329_304558615</transaction>
+  <expiration>2021-04-15T15:29:12-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000004987329</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Network Sovereignty</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Duarte, Marisa Elena; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">University of Washington Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">4987329</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000004987329</resource>
+      <permissions>
+        <display>
+          <duration>31535999</duration>
+        </display>
+        <excerpt>
+          <duration>31535999</duration>
+          <count initial="42" max="42" incrementInterval="750857"/>
+        </excerpt>
+        <print>
+          <duration>31535999</duration>
+          <count initial="83" max="83" incrementInterval="379951"/>
+        </print>
+        <play>
+          <duration>31535999</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>paVMXeNdStofTA0UuDm1MS/uVC4=</hmac>
+</fulfillmentToken>
